@@ -1,0 +1,11 @@
+﻿  colliders.cpp
+  Generating code
+  1 of 445 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+sfw.lib(sfwdraw.obj) : warning LNK4099: PDB 'nsfw2draw.pdb' was not found with 'sfw.lib(sfwdraw.obj)' or at 'D:\Programming\School\Assesments\DataStructure\Release\nsfw2draw.pdb'; linking object as if no debug info
+sfw.lib(gl_core_4_4.obj) : warning LNK4099: PDB 'nsfw2draw.pdb' was not found with 'sfw.lib(gl_core_4_4.obj)' or at 'D:\Programming\School\Assesments\DataStructure\Release\nsfw2draw.pdb'; linking object as if no debug info
+sfw.lib(crenderutils.obj) : warning LNK4099: PDB 'nsfw2draw.pdb' was not found with 'sfw.lib(crenderutils.obj)' or at 'D:\Programming\School\Assesments\DataStructure\Release\nsfw2draw.pdb'; linking object as if no debug info
+  DataStructure.vcxproj -> D:\Programming\School\Assesments\DataStructure\Release\DataStructure.exe
+  DataStructure.vcxproj -> D:\Programming\School\Assesments\DataStructure\Release\DataStructure.pdb (Full PDB)
