@@ -1,8 +1,5 @@
-﻿  colliders.cpp
+﻿  main.cpp
 d:\programming\school\assesments\datastructure\datastructure\library\math\templatemath.h(6): warning C4005: 'PI': macro redefinition
   d:\programming\school\assesments\datastructure\datastructure\rendering\sfwdraw.h(58): note: see previous definition of 'PI'
-d:\programming\school\assesments\datastructure\datastructure\library\collision\colliders.cpp(272): warning C4101: 'sc': unreferenced local variable
-d:\programming\school\assesments\datastructure\datastructure\library\collision\colliders.cpp(271): warning C4101: 'cv': unreferenced local variable
-d:\programming\school\assesments\datastructure\datastructure\library\collision\colliders.cpp(271): warning C4101: 'scv': unreferenced local variable
   DataStructure.vcxproj -> D:\Programming\School\Assesments\DataStructure\Debug\DataStructure.exe
   DataStructure.vcxproj -> D:\Programming\School\Assesments\DataStructure\Debug\DataStructure.pdb (Partial PDB)

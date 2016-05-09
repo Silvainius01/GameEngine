@@ -64,9 +64,9 @@ void rotate()
 }
 void autoCol()
 {
-	for (int x = 200; x < 300; x++)
+	for (float x = 200; x < 300; x++)
 	{
-		for (int y = 200; y < 300; y++)
+		for (float y = 200; y < 300; y++)
 		{
 			circ.getParent()->setPosition(Vec2{ x, y });
 			if (pent.collided(circ).collided)
@@ -113,6 +113,6 @@ void main()
 
 	while (stepContext())
 	{
-		
+		autoCol();
 	}
 }

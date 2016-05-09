@@ -11,7 +11,7 @@ struct Stat
 	string name;
 	unsigned color;
 
-	Stat() { value = 0, name = "Defualt", color = clr_WHITE; }
+	Stat() { value = 0, name = "Default", color = clr_WHITE; }
 	Stat(float val, string _name) : value(val), name(_name) { color = clr_WHITE; }
 	Stat(float val, string _name, unsigned _color) : value(val), name(_name), color(_color) {}
 
