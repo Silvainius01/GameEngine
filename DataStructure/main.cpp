@@ -54,9 +54,9 @@ Transform c = Transform(Vec2{ 250, 250 }, Vec2{ 1, 1 }, 0.0f);
 ConvexCollider pent = ConvexCollider(p, 5, 30.0f);
 CircleCollider circ = CircleCollider(c, 15.0f);
 
-void rotate()
+void rotate(float speed = 5.0f)
 {
-	pent.getParent()->rotate(5.0f * getDeltaTime());
+	pent.getParent()->rotate(speed * getDeltaTime());
 	pent.update();
 
 	color = clr_RED;
@@ -114,5 +114,6 @@ void main()
 	while (stepContext())
 	{
 		autoCol();
+		rotate(20);
 	}
 }

@@ -1,5 +1,5 @@
 ﻿  main.cpp
-d:\programming\school\assesments\datastructure\datastructure\library\math\templatemath.h(6): warning C4005: 'PI': macro redefinition
-  d:\programming\school\assesments\datastructure\datastructure\rendering\sfwdraw.h(58): note: see previous definition of 'PI'
-  DataStructure.vcxproj -> D:\Programming\School\Assesments\DataStructure\Debug\DataStructure.exe
-  DataStructure.vcxproj -> D:\Programming\School\Assesments\DataStructure\Debug\DataStructure.pdb (Partial PDB)
+d:\programming\school\assesments\year1\datastructure\datastructure\library\math\templatemath.h(6): warning C4005: 'PI': macro redefinition
+  d:\programming\school\assesments\year1\datastructure\datastructure\rendering\sfwdraw.h(58): note: see previous definition of 'PI'
+  DataStructure.vcxproj -> D:\Programming\School\Assesments\Year1\DataStructure\Debug\DataStructure.exe
+  DataStructure.vcxproj -> D:\Programming\School\Assesments\Year1\DataStructure\Debug\DataStructure.pdb (Partial PDB)
